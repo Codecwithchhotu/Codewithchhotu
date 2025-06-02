@@ -1,4 +1,4 @@
-# a=1   
+# a=1    # This is a comment out section
 # b=3
 # c=a+b   # a,b=variable , 1,3=constant value
 # # c=7
